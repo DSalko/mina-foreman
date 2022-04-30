@@ -1,5 +1,5 @@
-require 'mina/foreman/tasks'
-require 'mina/foreman/version'
+require 'mina'
+require_relative 'foreman/version'
 
 module Mina
   module Foreman
